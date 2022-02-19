@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
     font-style: normal;
     font-display: swap;
     src: local("Pretendard Variable"),
-      url("./assets/PretendardVariable.woff2") format("woff2-variations");
+      url("src/assets/PretendardVariable.woff2") format("woff2-variations");
   }
 
   * {
