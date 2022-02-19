@@ -1,5 +1,6 @@
 import { createGlobalStyle } from "styled-components";
 import normalize from "./normalize";
+import PretendardVariable from "assets/PretendardVariable.woff2";
 
 const GlobalStyle = createGlobalStyle`
   ${normalize}
@@ -10,12 +11,11 @@ const GlobalStyle = createGlobalStyle`
     font-style: normal;
     font-display: swap;
     src: local("Pretendard Variable"),
-      url("src/assets/PretendardVariable.woff2") format("woff2-variations");
+      url(${PretendardVariable}) format("woff2-variations");
   }
 
   * {
     box-sizing: border-box;
-
     font-family: "Pretendard Variable", -apple-system, BlinkMacSystemFont,
       system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",
       "Noto Sans KR", "Malgun Gothic", sans-serif;
