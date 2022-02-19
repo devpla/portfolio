@@ -1,1 +1,3 @@
-# portfolio
+# Portfolio
+
+<img alt="React" src ="https://img.shields.io/badge/react-282C34.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="Vite" src ="https://img.shields.io/badge/vite-282C34.svg?&style=for-the-badge&logo=vite&logoColor=646CFF"/> <img alt="TypeScript" src ="https://img.shields.io/badge/typescript-282C34.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img alt="TypeScript" src ="https://img.shields.io/badge/styled components-282C34.svg?&style=for-the-badge&logo=styledcomponents&logoColor=DB7093"/> <img alt="Vercel" src ="https://img.shields.io/badge/vercel-282C34.svg?&style=for-the-badge&logo=vercel&logoColor=ffffff"/>
